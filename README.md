@@ -4,6 +4,7 @@ Speech Recognition and Synthesis: speech_recognition and pyttsx3 libraries are u
 OpenAI API: Used for processing natural language questions that require more general knowledge or advanced responses.
 Weather Information: The requests library is used to get real-time weather information from the OpenWeatherMap API.
 Browser Interaction: The webbrowser module opens search results in a new browser window.
+
 Key functions include:
 
 talk: Converts text responses to speech.
